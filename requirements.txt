@@ -67,3 +67,4 @@ typing-extensions==3.7.4.3
 urllib3==1.25.11
 Werkzeug==0.16.0
 wrapt==1.11.2
+wilds==2.0.0
